@@ -6,4 +6,4 @@ yyyy = str(now.year)
 hour = str(now.hour)
 mi = str(now.minute)
 ss = str(now.second)
-print "Date : " + mm + "/" + dd + "/" + yyyy +"/"+" " +hour+" :"+mi+" :"+ss
+print("Date : " + mm + "/" + dd + "/" + yyyy +"/"+" " +hour+" :"+mi+" :"+ss)
